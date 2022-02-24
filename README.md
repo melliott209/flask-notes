@@ -17,6 +17,7 @@ MIT
 
 ## To Do
 - [ ] Set up web server for viewing
+- [ ] Add images to this README
 
 ## Credits
 - [Tech With Tim](https://www.youtube.com/c/TechWithTim)
